@@ -1,0 +1,21 @@
+{
+  "name": "sequelize-aws-xray-pg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Module for Sequelize to load so we can wrap Postgres into X-Ray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jhairau/sequelize-aws-xray-pg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/jhairau/sequelize-aws-xray-pg/blob/master/README.md",
+  "dependencies": {
+    "aws-xray-sdk": "^1.2.0"
+  }
+}
